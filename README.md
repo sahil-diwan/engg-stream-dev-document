@@ -1,12 +1,12 @@
 # Tiny Url : Shorten that long url
 
 ## URL
-    1. Application Url : http://tinyurl-env.eba-dwqapphi.us-east-2.elasticbeanstalk.com/home
-    2. Swagger Url :  http://tinyurlserver-env.eba-nt8f26gy.us-east-2.elasticbeanstalk.com/swagger-ui.html
-    3. Travis Url : https://travis-ci.org/github/sahil-diwan/fe-stream-tiny-url
-    4. Back end github url :  https://github.com/s-diwan/be-stream-tiny-url
-    5. Front end github url : https://github.com/s-diwan/fe-stream-tiny-url
-    6. Documentation url :  https://sahil-diwan.github.io/engg-stream-dev-document/
+    1. Application Url :        http://tinyurl-env.eba-dwqapphi.us-east-2.elasticbeanstalk.com/home
+    2. Swagger Url :            http://tinyurlserver-env.eba-nt8f26gy.us-east-2.elasticbeanstalk.com/swagger-ui.html
+    3. Travis Url :             https://travis-ci.org/github/sahil-diwan/fe-stream-tiny-url
+    4. Back end github url :    https://github.com/s-diwan/be-stream-tiny-url
+    5. Front end github url :   https://github.com/s-diwan/fe-stream-tiny-url
+    6. Documentation url :      https://sahil-diwan.github.io/engg-stream-dev-document/
 
 ## CI CD Pipeline
 <img src="images/cicd.jpg">
